@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Berna 👋
 
-<!--
-**bernayaman03/bernayaman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer | Embedded Software Development**
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate with hands-on experience in **embedded firmware development, real-time operating systems, and hardware–software integration**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is developing reliable embedded applications using **Embedded C/C++, microcontrollers, and FreeRTOS**.
+
+I also have project experience in industrial communication systems, desktop applications, API integration, and AI-powered software solutions.
+
+## 🔧 Technical Skills
+
+**Embedded Systems**
+- Embedded C/C++
+- STM32 (ARM Cortex-M4)
+- FreeRTOS and RTOS-based multitasking
+- GPIO, ADC, PWM, Timers, Interrupts
+- UART, SPI, I2C
+- Sensor Integration and Signal Processing
+- Embedded Debugging and Hardware–Software Integration
+
+**Software Development**
+- C#, Python, JavaScript
+- Windows Forms, React
+- REST APIs and JSON
+- PostgreSQL
+- OPC UA and Industrial Communication
+
+**Development Tools**
+- STM32CubeIDE / STM32CubeMX
+- Git and GitHub
+- Visual Studio / VS Code
+- TIA Portal, PLCSIM, Kepware
+
+## 🎯 Areas of Interest
+
+- Embedded Software and Firmware Engineering
+- Real-Time Operating Systems
+- Microcontroller-Based Systems
+- Hardware–Software Integration
+- Industrial Automation and Communication
+
+## 📫 Connect
+
+- **Email:** yamanberna560@gmail.com
+
+---
+
+*Interested in building reliable embedded systems and continuously improving my software engineering skills.*
