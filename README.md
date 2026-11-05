@@ -1,4 +1,4 @@
-# Hi, I'm Berna 👋
+# Hi, I'm Berna Yaman👋
 
 **Computer Engineer | Embedded Software Development**
 
